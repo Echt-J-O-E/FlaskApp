@@ -1,0 +1,8 @@
+Flask
+flask-cors
+emoji
+nltk
+pyphen
+pandas
+numpy
+scikit-learn==1.2.2
