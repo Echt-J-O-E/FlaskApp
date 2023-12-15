@@ -1,0 +1,12 @@
+Flask
+flask-cors
+emoji
+nltk
+pyphen
+pandas
+numpy
+textblob
+beautifulsoup4
+scikit-learn==1.2.2
+names-dataset
+requests
