@@ -2,7 +2,7 @@ A simple ens domain appraiser app.
 ensure that all the needed dependencies are installed. These are found in the requirements.txt file
 
 install dependencies using the following command:
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 
 To appraise your domain using the app, send a POST request to IP address of your deployment server.
 query takes the form key=domain, value="your domain name" (if you are using postman)
